@@ -1,8 +1,4 @@
-# Customer Churn Prediction: A Comprehensive ML and Power BI ProjectHere's the updated `README.md` without mentioning the number of rows in the dataset:
-
----
-
-# Telecom Customer Churn Prediction
+# Customer Churn Prediction: A Comprehensive ML and Power BI Project
 
 This repository contains a project focused on predicting customer churn for a telecom company. The project involves a detailed analysis of customer data, building machine learning models, and creating a Power BI dashboard to visualize the insights.
 
