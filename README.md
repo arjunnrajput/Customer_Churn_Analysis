@@ -1,6 +1,12 @@
 # Customer Churn Prediction: A Comprehensive ML and Power BI Project
+<img src="https://github.com/user-attachments/assets/4a3d29aa-5ec0-46d1-9ded-f7f568c30fc9" alt="Screenshot of Power BI Dashboard" style="width:80%; margin-bottom: 20px;">
 
 This repository contains a project focused on predicting customer churn for a telecom company. The project involves a detailed analysis of customer data, building machine learning models, and creating a Power BI dashboard to visualize the insights.
+
+
+
+
+
 
 ## Table of Contents
 
